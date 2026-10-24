@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Mocvd" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#061B24</item>
+        <item name="android:colorAccent">#64E6D5</item>
+    </style>
+</resources>
